@@ -153,7 +153,23 @@ http://localhost:5173
 <h2>📸 Project Preview</h2>
 
 <p align="center">
-Add screenshots or a demo GIF here.
+<img width="1897" height="957" alt="image" src="https://github.com/user-attachments/assets/f6b9e01b-1d38-4bbc-8f11-edd0c6ae9892" />
+
+<img width="417" height="618" alt="image" src="https://github.com/user-attachments/assets/e136ddb4-fe41-45a9-aa43-edac04d7de79" />
+
+<img width="1821" height="943" alt="image" src="https://github.com/user-attachments/assets/5806b662-47b9-4094-b7eb-482b287b2a2b" />
+
+<img width="1892" height="944" alt="image" src="https://github.com/user-attachments/assets/d1fcc92f-d81b-44ec-960f-3842e49ecbfc" />
+
+<img width="1826" height="932" alt="image" src="https://github.com/user-attachments/assets/94aae82a-b944-40ea-9168-88d2b6ed75b3" />
+
+<img width="1809" height="932" alt="image" src="https://github.com/user-attachments/assets/d1efaa58-9cbb-4903-99d4-6bb19f1158b6" />
+
+
+
+
+
+
 </p>
 
 <hr>
@@ -200,3 +216,4 @@ LinkedIn
 ⭐ If you like this project, consider giving it a star on GitHub!
 
 </p>
+
